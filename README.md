@@ -1,6 +1,6 @@
 ## Hello, 안녕하세요, 您好 👋
 
-I'm Gloria, a senior Math-CS student at UC San Diego (Data Science minor) who loves taking something confusing, figuring it out, and making it clear and usable for others. I'm not afraid to start as a beginner, because I keep going until I understand how things work.
+My name is Gloria, a senior Math-CS student at UC San Diego (Data Science minor) who loves taking something confusing, figuring it out, and making it clear and usable for others. I'm not afraid to start as a beginner, because I keep going until I understand how things work.
 
 - 🔭 **Building:** A retrieval pipeline for a ServiceNow ticket classifier at UCSD's ITS Service Desk.
 - 📱 **Co-built:** CookOut, an early-version of a gamified cooking app in beta on TestFlight (React Native, Node.js, PostgreSQL)
