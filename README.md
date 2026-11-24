@@ -8,7 +8,7 @@ I'm Gloria, a senior Math-CS student at UC San Diego (Data Science minor) who lo
 - 🌱 **Learning:** Kubernetes, Docker, LLM data pipelines, and finishing *Designing Data-Intensive Applications*
 - 👯 **Teaching:** SCRUM practices, MERN stack, and Ethical AI Practices as Project Chair at Women in Computing, by running and managing 80+ members and 9 weeks long workshops.
 - 🎯 **Looking for:** Software and/or data engineering internships and new grad roles starting [June 2027]
-- 📫 **Reach me:** [gloria.y.lee2040@gmail.com](mailto:gloria.y.lee2040@gmail.com) · [LinkedIn]([LINK](https://www.linkedin.com/in/glorialeem/))
+- 📫 **Reach me:** [gloria.y.lee2040@gmail.com](mailto:gloria.y.lee2040@gmail.com) · [LinkedIn](https://www.linkedin.com/in/glorialeem/)
 
 **Tech:** 
 - **Languages:** Python · SQL · JavaScript · TypeScript · Java
