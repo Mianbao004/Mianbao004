@@ -5,7 +5,7 @@ My name is Gloria, a senior Math-CS student at UC San Diego (Data Science minor)
 - 🔭 **Building:** A retrieval pipeline for a ServiceNow ticket classifier at UCSD's ITS Service Desk.
 - 📱 **Co-built:** CookOut, an early-version of a gamified cooking app in beta on TestFlight (React Native, Node.js, PostgreSQL)
 - 🐹 **Side project:** [HamsterVision](https://wic-hamster-generator.vercel.app/), a fun app that matches your facial expression to a hamster reaction GIF (in progress: improving accuracy and adding CI/CD tests)
-- 🌱 **Learning:** Kubernetes, Docker, LLM data pipelines, and finishing *Designing Data-Intensive Applications*
+- 🌱 **Learning:** Kubernetes, Docker, LLM data pipelines, and reading *Designing Data-Intensive Applications*
 - 👯 **Teaching:** SCRUM practices, MERN stack, and Ethical AI Practices as Project Chair at Women in Computing, by managing 80+ members and running 9 weeks long workshops.
 - 🎯 **Looking for:** Software and/or data engineering internships and new grad roles starting [June 2027]
 - 📫 **Reach me:** [gloria.y.lee2040@gmail.com](mailto:gloria.y.lee2040@gmail.com) · [LinkedIn](https://www.linkedin.com/in/glorialeem/)
