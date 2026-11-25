@@ -19,7 +19,7 @@ My name is Gloria, a senior Math-CS student at UC San Diego (Data Science minor)
 **Hobbies:**
 - Reading: Currently reading a 2004 fantasy novel _Going Postal_ by Terry Pratchett
 - Hiking: Most recent hike is Los Peñasquitos Waterfall hike
-- Cooking: My go-to is Korean Soy-marinated Eggs, Soy-marinated Salmon or Spicy Gochujang Oven-baked Chicken. 
+- Cooking: My go-to is Korean Soy-marinated Eggs, Soy-marinated Salmon, or Spicy Gochujang Oven-baked Chicken. 
 
 
 <!--
